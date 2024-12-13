@@ -1,0 +1,14 @@
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/bin/Debug/net8.0/gestor-notas
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/bin/Debug/net8.0/gestor-notas.deps.json
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/bin/Debug/net8.0/gestor-notas.runtimeconfig.json
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/bin/Debug/net8.0/gestor-notas.dll
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/bin/Debug/net8.0/gestor-notas.pdb
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.AssemblyInfoInputs.cache
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.AssemblyInfo.cs
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.csproj.CoreCompileInputs.cache
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.dll
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/refint/gestor-notas.dll
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.pdb
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/gestor-notas.genruntimeconfig.cache
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/gestor-notas/obj/Debug/net8.0/ref/gestor-notas.dll
